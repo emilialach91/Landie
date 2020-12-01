@@ -1,19 +1,6 @@
 const HtmlWebPackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 var path = require('path');
-// const productionConfig = merge([
-//     {
-//       output: {
-  
-//         publicPath: "/",
-  
-  
-//         // Tweak this to match your GitHub project name
-//         publicPath: "/webpack-demo/",
-  
-//       },
-//     },
-//   ]);
 
 
 module.exports = {
@@ -22,7 +9,8 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js'
+        filename: 'bundle.js',
+        publicPath: "/",
     },
     module: {
         rules: [
