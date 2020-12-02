@@ -168,7 +168,7 @@ body {
     .navListContainer {
         display: flex;
         width: 100%;
-        background-image: url("/src/images/menu.svg");
+        background-image: url("/dist/images/menu.svg");
         background-position: right;
         background-repeat: no-repeat;
         background-size: cover;
@@ -237,7 +237,7 @@ body {
         display: flex;
         width: 100%;
         height: 100vh;
-        background-image: url("/src/images/menuMobile.svg");
+        background-image: url("/dist/images/menuMobile.svg");
         background-position: bottom;
         background-repeat: no-repeat;
         background-size: cover;
@@ -280,7 +280,7 @@ body {
     align-items: center;
     height: 100vh;
     width: 100%;
-    background-image: url("/src/images/designer_1.png");
+    background-image: url("/dist/images/designer_1.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -376,7 +376,7 @@ body {
 
 @media only screen and (max-width:1320px){
     .hero {
-        background-image: url("/src/images/designer_12.png");
+        background-image: url("/dist/images/designer_12.png");
         background-repeat: no-repeat;
         background-position: right;
         background-size: inherit;
@@ -399,7 +399,7 @@ body {
 
 @media only screen and (max-width: 1150px){
     .hero {
-        background-image: url("/src/images/screw.png");
+        background-image: url("/dist/images/screw.png");
         background-repeat: no-repeat;
         background-position: right;
         background-size: inherit;
