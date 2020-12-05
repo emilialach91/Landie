@@ -9,7 +9,7 @@ Grow your bussines with this company!
 ## Tools
 
 - HTML
-- CSS/SASS with BEM methodology
+- CSS
 - JavaScript
 - Webpack
 - Figma
