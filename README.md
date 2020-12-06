@@ -1,5 +1,7 @@
 # Landie
 
+https://emilialach91.github.io/Landie/
+
 ## Overview
 
 This is the website for a digital agancy. You can find all necessary information about the company and products. Extremely clear and legible structure of the website will make it easy for the customer to find all the details to purchase services such as websites, apps and marketing solutions.
